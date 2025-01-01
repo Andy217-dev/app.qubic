@@ -3771,13 +3771,7 @@
           constructor(t, n, a) {
             (this.headerStore = t),
               (this.authService = n),
-              (this.previewSwapService = a),
-              (this.iframeSrc$ = this.headerStore.getMobileDisplayStatus().pipe(
-                (0, G.v)(
-                  this.authService.currentUser$,
-                  this.previewSwapService.transactionState$
-                )
-              )),
+              (this.previewSwapService = a),  
               (this.iframeSize$ = this.headerStore
                 .getMobileDisplayStatus()
                 .pipe(
