@@ -326,7 +326,7 @@
       },
       {
         "title": "Destek ile Nasıl İletişime Geçilir?",
-        "answer": "Yardıma ihtiyacınız olursa, web sitemizde veya Telegram'ımızda bir bilet göndererek buradan destek ekibimizle iletişime geçmekten çekinmeyin: <a href='https://t.me/crystalballs_ai' target='_blank'>https://t.me/crystalballs_ai</a>\n\n Canlı sohbet - Sohbeti kullanarak anında yardım almak için Qubic AI ekibiyle iletişime geçin. 7/24 ulaşılabilir.\n\nE-posta Desteği - <a href='mailto:support@rubic.finance'>support@rubic.finance</a>. Daha karmaşık veya teknik sorularla istediğiniz zaman Qubic AI Desteğine mesaj gönderin. Yardım etmek için buradayız."
+        "answer": "Yardıma ihtiyacınız olursa, web sitemizde veya Telegram'ımızda bir bilet göndererek buradan destek ekibimizle iletişime geçmekten çekinmeyin: <a href='https://t.me ' target='_blank'>https://t.me </a>\n\n Canlı sohbet - Sohbeti kullanarak anında yardım almak için Qubic AI ekibiyle iletişime geçin. 7/24 ulaşılabilir.\n\nE-posta Desteği - <a href='mailto:support@rubic.finance'>support@rubic.finance</a>. Daha karmaşık veya teknik sorularla istediğiniz zaman Qubic AI Desteğine mesaj gönderin. Yardım etmek için buradayız."
       },
       {
         "title": "Qubic AI Relay widget'ı nedir ve nasıl entegre edebiliriz?",
@@ -338,7 +338,7 @@
       },
       {
         "title": "On-Chain takasım neden uzun süreli “Beklemede” durumuna sahip?",
-        "answer": "Sebep:\nAyarlanan gaz ücreti işleminizi gerçekleştirmek için yeterli olmayabilir.\n\n Nasıl çözülür:\n İşlem ”Beklemede” ise, en iyisi şu şekilde değiştirerek işlemi manuel olarak hızlandırmaktır. işlemin tamamlanmasını zorlamak için istenen gaz değeri. Cüzdanınız üzerinden yapılabilir. Ek bir gaz ücreti ödeyebileceksiniz.\n\nHâlâ yardıma ihtiyacınız varsa, buradan bir bilet göndererek veya Telegram üzerinden destek ekibimizle iletişime geçmekten çekinmeyin. <a href='https://t.me/crystalballs_ai' target='_blank'>https://t.me/crystalballs_ai</a>"
+        "answer": "Sebep:\nAyarlanan gaz ücreti işleminizi gerçekleştirmek için yeterli olmayabilir.\n\n Nasıl çözülür:\n İşlem ”Beklemede” ise, en iyisi şu şekilde değiştirerek işlemi manuel olarak hızlandırmaktır. işlemin tamamlanmasını zorlamak için istenen gaz değeri. Cüzdanınız üzerinden yapılabilir. Ek bir gaz ücreti ödeyebileceksiniz.\n\nHâlâ yardıma ihtiyacınız varsa, buradan bir bilet göndererek veya Telegram üzerinden destek ekibimizle iletişime geçmekten çekinmeyin. <a href='https://t.me ' target='_blank'>https://t.me </a>"
       },
       {
         "title": "Why do I get the “Insufficient Balance” error?",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Neden Çok Zincirli bir işlemin uzun süreli ”Beklemede” statüsüne sahibim?",
-        "answer": "Muhtemelen, bu süre zarfında gaz fiyatları önemli ölçüde arttı. \nYukarıdaki yöntemler yardımcı olmadıysa, lütfen web sitesindeki sohbet veya Telegram aracılığıyla destek ekibimizle iletişime geçin: <a href='https://t.me/crystalballs_ai' target='_blank'>https://t.me/crystalballs_ai</a>."
+        "answer": "Muhtemelen, bu süre zarfında gaz fiyatları önemli ölçüde arttı. \nYukarıdaki yöntemler yardımcı olmadıysa, lütfen web sitesindeki sohbet veya Telegram aracılığıyla destek ekibimizle iletişime geçin: <a href='https://t.me ' target='_blank'>https://t.me </a>."
       },
       {
         "title": "Neden çoklu zincir takasını yapamıyorum?",
