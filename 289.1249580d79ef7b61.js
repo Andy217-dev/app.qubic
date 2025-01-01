@@ -10655,7 +10655,7 @@
           "https://app.layer3.xyz/quests/blast-through-rubic-exchange?slug=blast-through-rubic-exchange",
         [r.BLOCKCHAIN_NAME.TAIKO]:
           "https://rubic.exchange/blog/how-to-bridge-to-and-from-taiko-and-get-taiko-airdrop/",
-        [r.BLOCKCHAIN_NAME.SCROLL]: "https://docs.crystalballsai.xyz",
+        [r.BLOCKCHAIN_NAME.SCROLL]: "https://mighty-2.gitbook.io/qubic",
         [r.BLOCKCHAIN_NAME.OPTIMISM]:
           "https://app.layer3.xyz/quests/supercharge-op-rubic?slug=supercharge-op-rubic",
         [r.BLOCKCHAIN_NAME.SOLANA]:
