@@ -3776,17 +3776,6 @@
                 (0, G.v)(
                   this.authService.currentUser$,
                   this.previewSwapService.transactionState$
-                ),
-                (0, k.T)(
-                  ([o, s, l]) =>
-                    `https://e.spindlembed.com/v1/serve?publisher_id=rubic&placement_id=${this.getPlacementId(
-                      o,
-                      l.step
-                    )}&address=${
-                      s
-                        ? s.address
-                        : "0xe388Ed184958062a2ea29B7fD049ca21244AE02e"
-                    }`
                 )
               )),
               (this.iframeSize$ = this.headerStore
